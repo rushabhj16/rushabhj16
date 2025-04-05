@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 🔭 I’m a Master’s in Computer Science student at **Arizona State University**, passionate about building scalable and reliable backend systems using **Java, Python**, and cloud-native tools like **Docker** and **Kubernetes**.  
-🤝 I’m actively looking for a **full-time Software Engineering role starting May 2025**, with a strong interest in backend development and distributed systems.  
+🤝 I’m actively looking for a ****full-time Software Engineering role starting May 2025****, with a strong interest in backend development and distributed systems.  
 🙋‍♂️ I’m always up for collaborating on **open-source tools**, **backend-heavy architectures**, and **system design discussions**.  
 🌱 Currently exploring **Go**, **gRPC**, and advanced **system design** concepts.  
 💬 Feel free to reach out if you want to talk about **microservices**, **CI/CD**, **cloud infrastructure**, or tackling tough concurrency problems.  
