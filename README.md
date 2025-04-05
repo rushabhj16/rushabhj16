@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Rushabh
 
 ## 👋 About Me
-🔭 I’m a Master’s in Computer Science student at **Arizona State University**, passionate about building scalable and reliable backend systems using **Java, Python**, and cloud-native tools like **Docker** and **Kubernetes**.<br>
+🔭 I’m a Master’s in Computer Science student at **Arizona State University**, passionate about building scalable and reliable full-stack applications using **Java, Python and Javascript**, and cloud-native tools like **Docker** and **Kubernetes**.<br>
  🤝 I’m actively looking for a **<span style="font-size: 2em;">full-time Software Engineering role starting May 2025</span>**, with a strong interest in backend development and distributed systems.<br>
 🙋‍♂️ I’m always up for collaborating on **open-source tools**, **backend-heavy architectures**, and **system design discussions**.<br>
 🌱 Currently exploring **Go**, **gRPC**, and advanced **system design** concepts.<br> 
