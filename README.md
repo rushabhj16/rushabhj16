@@ -48,7 +48,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
----
+----
 
 ### 📡 Messaging & Event Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -56,7 +56,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-%230677D9.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
----
+----
 
 ### ⚡ Big Data & Workflow Orchestration
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
